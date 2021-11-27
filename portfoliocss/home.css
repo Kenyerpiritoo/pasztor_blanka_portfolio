@@ -1,0 +1,13 @@
+
+img {
+	max-width: 40%;
+	max-height: 40%;
+	margin: 16px auto;
+	border-radius: 30px;
+	display: flex;
+	flex-wrap: wrap;
+				
+}
+footer{
+	text-align: center;
+}

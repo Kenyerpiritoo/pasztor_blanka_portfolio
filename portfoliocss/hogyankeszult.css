@@ -1,0 +1,7 @@
+img {
+	max-width: 30%;
+	max-height: 30%;
+	margin: 20px ;
+	display: flex;
+	flex-wrap: wrap;
+}
